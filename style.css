@@ -3,6 +3,8 @@ body {
   background: url(Photo.jpg);
   background-position: center center;
   background-size: cover;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .header {
   display: flex;
@@ -51,7 +53,7 @@ body {
   align-items: flex-start;
   flex-direction: column;
   width: 250px;
-  padding-right: 60vh;
+  padding-right: 80vh;
 }
 .button {
   text-decoration: none;
@@ -68,6 +70,6 @@ body {
   font-size: 17px;
 }
 .main_image {
-  width: 650px;
+  width: 800px;
   height: 100vh;
 }
